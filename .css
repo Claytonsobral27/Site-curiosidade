@@ -1,7 +1,13 @@
 
+   
+
+
 
 * body { 
- 
+     margin: 0;
+     height: auto;
+     width: auto;
+
     background:linear-gradient(45deg,#125C13,#3E7C17,#F4A442,#E8E1D9);
     background-size: 250% 250%;
     animation:color 15s ease infinite;
